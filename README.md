@@ -14,6 +14,9 @@
         <img src="https://img.shields.io/badge/HabrCareer-grey?style=for-the-badge&logo=HabrCareer&logoColor=white"alt="HabrCareer"/>
     </a>
 </div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=vivalapanic&style=flat-square&color=blue" alt=""/>
+</div>
 
 ### About Me:lotus_position_woman:
 Aктивно развиваюсь в сфере тестирования ПО. Быстро осваиваю новые программные инструменты и легко обучаюсь. Умею работать в команде. Открыта     к любым проектам, заинтересована в карьерном и профессиональном росте.
