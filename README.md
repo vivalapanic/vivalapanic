@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1>Всем привет! Меня зовут Анна:call_me_hand:</h1>
+    <h1>Всем привет! Меня зовут Анна :call_me_hand:</h1>
     <h3>Я - QA engineer</h2>
 </div>
 
@@ -18,12 +18,12 @@
 <img src="https://komarev.com/ghpvc/?username=vivalapanic&style=flat-square&color=blue" alt=""/>
 </div>
 
-### About Me:lotus_position_woman:
+### About Me :lotus_position_woman:
 QA инженер. Тестирую мобильные и Веб-приложения: тестирование функционала через UI, бек-энда (Postman), дизайна, документации. Тестирование от этапов разработки ПИ до пост-релизного тестирования. В работе использую Jira, Charles, Postman, Android Studio, pgAdmin, Visual Studio Code, DevTools, TMS Qase.
 
 Быстро осваиваю новые программные инструменты и легко обучаюсь. Умею работать в команде. Открыта к любым проектам, заинтересована в карьерном и профессиональном росте.
 
-### Work experience:woman_technologist:
+### Work experience :woman_technologist:
     
 **Startup Веб и Мобильное Приложение**:
 
@@ -69,7 +69,7 @@ QA инженер. Тестирую мобильные и Веб-приложе�
 
 *2016-2016*
 
-### Tools:toolbox:
+### Tools :toolbox:
 <div id="header">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="js" width="40" height="40"/>&nbsp;
     <img src="postman-icon.svg" title="js" width="40" height="40"/>&nbsp;
