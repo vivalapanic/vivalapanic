@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1>Всем привет! Меня зовут Анна :call_me_hand:</h1>
+    <h1>Всем привет! Меня зовут Анна</h1>
     <h3>Я - AQA engineer</h2>
 </div>
 
@@ -19,8 +19,7 @@
 </div>
 
 ### About Me :lotus_position_woman:
-Опыт тестирования Backend'a (API, БД, Swagger, интеграции + автотесты JS, Python), Frontend'a (web+mobile), LLM-ботов с RAG-архитектурой, документацию (дизайн, ТИ, ПИ и т.д.). Все виды тестирования от тестирования новых функциональностей до пост-релизного, анализ логов. Разработка тестовой документации (тест-кейсы, методологии, планов и т.д.). Обучение, контроль и ревью результатов работы коллег.
-Быстро осваиваю новые программные инструменты и легко обучаюсь. Умею работать в команде. Открыта к любым проектам, заинтересована в карьерном и профессиональном росте.
+Опыт тестирования Backend'a (API, БД, Swagger, интеграции + автотесты JS, Python), Frontend'a (web+mobile), LLM-ботов с RAG-архитектурой, документацию (дизайн, ТИ, ПИ и т.д.). Все виды тестирования от тестирования новых функциональностей до пост-релизного, анализ логов. Разработка тестовой документации (тест-кейсы, методологии, планов и т.д.), в том числе с помощью ИИ. Обучение, контроль и ревью результатов работы коллег.
 
 ### Work experience :woman_technologist:
 
@@ -42,7 +41,7 @@
 7. Работа с логами и отладкой:
 анализ логов (ELK stack), DevTools, Android Studio; поиск root cause дефектов на уровне backend, frontend и мобильных клиентов.
 8. Тестовая стратегия и документация:
-разработка тест-наборов разных уровней (smoke, regression, E2E); настройка и ведение TMS; разработка методологий, инструкций, тест-планов, матрицы трассировки; оптимизация тестовой документации, ревью и обучение коллег.
+разработка тест-наборов разных уровней (smoke, regression, E2E); в том числе с помощью ИИ (Copilot); настройка и ведение TMS (Qase, Allure); разработка методологий, инструкций, тест-планов, матрицы трассировки; оптимизация тестовой документации, ревью и обучение коллег.
 9. Управление качеством и задачами:
 самостоятельная приоритезация и оценка задач; ведение эпиков и дефектов; распределение задач в QA-команде, ревью результатов; работа с Jira; сбор и анализ метрик качества, проведение EDA и риск-анализа.
     
@@ -68,11 +67,6 @@
 - тестирование документации;
 - коммуникации с разработчиками, аналитиком и дизайнером.
 
-**2D-художник, Концепт арт**:
-
-*2020-2022*
-- разработка и отрисовка иллюстраций, концептов в Photoshop, отрисовка по 3D моделям. Работа с векторными объектами.
-
 **Помощник руководителя IT проектов**:
 
 *2018-2021*
@@ -82,21 +76,13 @@
 - поиск, обучение и сопровождение персонала;
 - ведение YouTube, Tik tok, Инстаграм.
 
-**Контент-менеджер, администратор интернет-магазина**
-
-*2017-2018*
-
-**Менеджер по работе с клиентами в тех. поддержке интернет-магазина**
-
-*2016-2016*
-
 ### Tools :toolbox:
 <div id="header">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="js" width="40" height="40"/>&nbsp;
+    <img src="https://commons.wikimedia.org/wiki/File:Octicons-mark-github.svg" title="js" width="40" height="40"/>&nbsp;
     <img src="postman-icon.svg" title="js" width="40" height="40"/>&nbsp;
     <img src="charlesproxy.svg" title="js" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp;
+    <img src="Pytest_logo.png" title="js" width="40" height="40"/>&nbsp;
+    <img src="pycharm.svg" title="js" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="js" width="40" height="40"/>&nbsp;
