@@ -78,7 +78,7 @@
 
 ### Tools :toolbox:
 <div id="header">
-    <img src="https://commons.wikimedia.org/wiki/File:Octicons-mark-github.svg" title="js" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="js" width="40" height="40"/>&nbsp;
     <img src="postman-icon.svg" title="js" width="40" height="40"/>&nbsp;
     <img src="charlesproxy.svg" title="js" width="40" height="40"/>&nbsp;
     <img src="Pytest_logo.png" title="js" width="40" height="40"/>&nbsp;
@@ -86,4 +86,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="js" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="js" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" title="js" width="40" height="40"/>&nbsp;
 </div>
